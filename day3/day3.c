@@ -1,4 +1,4 @@
-//day2 of learning c
+//day3 of learning c
 //name: Leigh
 //date: 27/04/2025
 
