@@ -101,3 +101,24 @@ sea c shells she
 59. **Build a "Guess the Number" game**  
 60. **Build a "Simple ATM Simulation" (Deposit, Withdraw, Check Balance)**  
 61. **Final Day: Build anything you want with everything you learned!**
+
+---
+
+## Week 9: Final Boss Challenges (Mix of Everything)
+62. **Take an array of numbers, find the *average*, then check who is above/below average**  
+63. **Create a student struct with name, 3 grades. Sort students by their average grade**  
+64. **Make a program that reads 5 strings (names) and sorts them alphabetically**  
+65. **Write a "simple login system" (ask for username and password; only 3 attempts allowed!)**  
+66. **Mini ATM: PIN check + deposit + withdraw + balance check (using structs + functions)**  
+67. **Build a mini "Shopping Cart": Add items, show cart, calculate total price**  
+68. **Create a mini "Quiz App": Ask 5 questions, give score at the end**  
+69. **Dynamic array magic: Let user decide how big the array is (hint: malloc, free)**  
+70. **Build a Text Reverser: Ask for a sentence, reverse the entire sentence**  
+71. **FINAL BOSS DAY: Build a C Program that:**
+- Takes user info (structs)
+- Lets user pick options (menu using `switch`)
+- Uses loops, if-else, arrays, strings
+- Has at least 3 functions
+- Bonus points: uses dynamic memory (malloc)
+
+> 🏆 Your final boss project should feel like a **tiny real app**, like a simple contact manager, bank system, quiz game, etc. You can freestyle it!
