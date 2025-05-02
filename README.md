@@ -79,6 +79,9 @@ sea c shells she
 44. **Declare a string and print it**  
 45. **Take a string input from the user and print it**
 
+## Week 6.1: Pointers
+
+
 ---
 
 ## Week 7: Slightly Spicy Challenges
