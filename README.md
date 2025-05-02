@@ -12,7 +12,8 @@ sea c shells she
 4. **Basic math: add 2 numbers, print the sum**  
 5. **Subtract 2 numbers, print the result**  
 6. **Multiply 2 numbers, print the result**  
-7. **Divide 2 numbers, print the result**  
+7. **Divide 2 numbers, print the result**
+7.1. **Convert data types**
 
 ---
 
